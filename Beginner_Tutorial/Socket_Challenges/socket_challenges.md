@@ -1,0 +1,3 @@
+At the 247/CTF, challenges are not shared with multiple players and VPNs are not required. Instead, you have the control to start and stop your own unique challenge instance at any time. Once you have launched a challenge, you can access the instance by clicking on the pop up which loads in the bottom right hand corner of every page.
+
+Click the ‘START CHALLENGE’ button to the right of this text description to start a socket challenge. Once the challenge instance is launched, the pop up will contain either a tcp:// or udp:// link to access the socket hosting your challenge. Connect to the socket using a tool such as [netcat](https://en.wikipedia.org/wiki/Netcat) or [telnet](https://en.wikipedia.org/wiki/Telnet) and submit the flag!
