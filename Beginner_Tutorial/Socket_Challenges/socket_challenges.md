@@ -6,4 +6,4 @@ Once you start the cahllenge and click on the pop up, you are taken to the chall
 
 Install [MYSYS2](https://www.msys2.org/) if working on windows for executing netcat. Run **pacman -S netcat** to install netcat in mysys2.
 
-Run nc or netcat followed by the url without the tcp:// and : before the port number (example: **nc b2518cbde73f1183.247ctf.com 50484**)
+Run nc or netcat followed by the url without the tcp:// and : before the port number (example: **nc b2518cbde73f1183.247ctf.com 50484**) to get the flag.
