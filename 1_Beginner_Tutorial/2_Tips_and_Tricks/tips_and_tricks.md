@@ -8,3 +8,4 @@ Click the ‘START CHALLENGE’ button to the right of this text description to 
 
 **Solution**
 
+1_Beginner_Tutorial\2_Tips_and_Tricks\solution.py
